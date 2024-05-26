@@ -1,0 +1,2 @@
+C:\web\UGRestaurant\src\main\webapp
+전부 jsp 파일
