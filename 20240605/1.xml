@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">foodID</Data></Cell>
+			<Cell><Data ss:Type="String">name</Data></Cell>
+			<Cell><Data ss:Type="String">unitPrice</Data></Cell>
+			<Cell><Data ss:Type="String">coo</Data></Cell>
+			<Cell><Data ss:Type="String">description</Data></Cell>
+			<Cell><Data ss:Type="String">cal</Data></Cell>
+			<Cell><Data ss:Type="String">foodImage</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">KUG12</Data></Cell>
+			<Cell><Data ss:Type="String">김치찌개</Data></Cell>
+			<Cell><Data ss:Type="Number">8000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">얼큰하고 칼칼한 한국 대표음식</Data></Cell>
+			<Cell><Data ss:Type="Number">250</Data></Cell>
+			<Cell><Data ss:Type="String">KUG12.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG13</Data></Cell>
+			<Cell><Data ss:Type="String">얼큰된장찌개</Data></Cell>
+			<Cell><Data ss:Type="Number">8000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">구수한 된장찌개에 알싸한 청양고추를 가미한 특별한 맛</Data></Cell>
+			<Cell><Data ss:Type="Number">230</Data></Cell>
+			<Cell><Data ss:Type="String">KUG13.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG14</Data></Cell>
+			<Cell><Data ss:Type="String">제육볶음</Data></Cell>
+			<Cell><Data ss:Type="Number">9000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">제육볶음 한 점에 소주 한 잔이면 끝</Data></Cell>
+			<Cell><Data ss:Type="Number">500</Data></Cell>
+			<Cell><Data ss:Type="String">KUG14.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG15</Data></Cell>
+			<Cell><Data ss:Type="String">뚝배기불고기</Data></Cell>
+			<Cell><Data ss:Type="Number">9000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">육즙이 풍부한 소고기를 사용한 남녀노소 사랑받는 음식</Data></Cell>
+			<Cell><Data ss:Type="Number">500</Data></Cell>
+			<Cell><Data ss:Type="String">KUG15.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG16</Data></Cell>
+			<Cell><Data ss:Type="String">닭볶음탕</Data></Cell>
+			<Cell><Data ss:Type="Number">25000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">매콤하고 진한 국물 맛이 특징인 한국의 인기 있는 요리</Data></Cell>
+			<Cell><Data ss:Type="Number">550</Data></Cell>
+			<Cell><Data ss:Type="String">KUG16.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG17</Data></Cell>
+			<Cell><Data ss:Type="String">계란말이</Data></Cell>
+			<Cell><Data ss:Type="Number">6000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">부드럽고 고소한 맛이 일품인 한국의 대표적인 음식</Data></Cell>
+			<Cell><Data ss:Type="Number">285</Data></Cell>
+			<Cell><Data ss:Type="String">KUG17.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG18</Data></Cell>
+			<Cell><Data ss:Type="String">갈비찜</Data></Cell>
+			<Cell><Data ss:Type="Number">9500</Data></Cell>
+			<Cell><Data ss:Type="String">미국산</Data></Cell>
+			<Cell><Data ss:Type="String">풍부한 양념과 부드러운 돼지고기가 어우러져 깊고 진한 맛</Data></Cell>
+			<Cell><Data ss:Type="Number">550</Data></Cell>
+			<Cell><Data ss:Type="String">KUG18.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG19</Data></Cell>
+			<Cell><Data ss:Type="String">오징어볶음</Data></Cell>
+			<Cell><Data ss:Type="Number">8500</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">매운맛과 달콤한 맛이 잘 어우러진 음식</Data></Cell>
+			<Cell><Data ss:Type="Number">250</Data></Cell>
+			<Cell><Data ss:Type="String">KUG19.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG20</Data></Cell>
+			<Cell><Data ss:Type="String">순두부찌개</Data></Cell>
+			<Cell><Data ss:Type="Number">8000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">부드럽고 고소한 순두부와 매콤한 국물이 조화를 이루는 음식</Data></Cell>
+			<Cell><Data ss:Type="Number">350</Data></Cell>
+			<Cell><Data ss:Type="String">KUG20.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG21</Data></Cell>
+			<Cell><Data ss:Type="String">동태찌개</Data></Cell>
+			<Cell><Data ss:Type="Number">8000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">얼큰하면서도 개운한 맛을 자랑하는 음식(겨울철 한정메뉴)</Data></Cell>
+			<Cell><Data ss:Type="Number">235</Data></Cell>
+			<Cell><Data ss:Type="String">KUG21.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG22</Data></Cell>
+			<Cell><Data ss:Type="String">콩국수1</Data></Cell>
+			<Cell><Data ss:Type="Number">60001</Data></Cell>
+			<Cell><Data ss:Type="String">국내산1</Data></Cell>
+			<Cell><Data ss:Type="String">시원하고 고소한 맛이 일품인 여름철 별미(여름철 한정메뉴)1</Data></Cell>
+			<Cell><Data ss:Type="Number">5001</Data></Cell>
+			<Cell><Data ss:Type="String">KUG24.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG23</Data></Cell>
+			<Cell><Data ss:Type="String">열무국수</Data></Cell>
+			<Cell><Data ss:Type="Number">6000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">시원하고 아삭한 열무김치와 쫄깃한 면발이 어우러져 여름철에 특히 사랑받는 음식(여름철 한정메뉴)</Data></Cell>
+			<Cell><Data ss:Type="Number">400</Data></Cell>
+			<Cell><Data ss:Type="String">KUG23.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG24</Data></Cell>
+			<Cell><Data ss:Type="String">공기밥</Data></Cell>
+			<Cell><Data ss:Type="Number">1000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">고봉밥</Data></Cell>
+			<Cell><Data ss:Type="Number">310</Data></Cell>
+			<Cell><Data ss:Type="String">KUG24.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG25</Data></Cell>
+			<Cell><Data ss:Type="String">소주</Data></Cell>
+			<Cell><Data ss:Type="Number">4000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">알코올의 강한 향과 함께 목을 타고 넘어가는 시원한 느낌(19세 미만 주문 불가합니다.)</Data></Cell>
+			<Cell><Data ss:Type="Number">400</Data></Cell>
+			<Cell><Data ss:Type="String">KUG25.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG26</Data></Cell>
+			<Cell><Data ss:Type="String">맥주</Data></Cell>
+			<Cell><Data ss:Type="Number">4000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">더운 날씨나 가벼운 모임에서 부담 없이 즐기기에 좋은 맥주(19세 미만 주문 불가합니다.)</Data></Cell>
+			<Cell><Data ss:Type="Number">150</Data></Cell>
+			<Cell><Data ss:Type="String">KUG26.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG59</Data></Cell>
+			<Cell><Data ss:Type="String">니니니니닌</Data></Cell>
+			<Cell><Data ss:Type="Number">12345</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">1234566</Data></Cell>
+			<Cell><Data ss:Type="Number">1234</Data></Cell>
+			<Cell><Data ss:Type="String">1717574860276_KUG25.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG77</Data></Cell>
+			<Cell><Data ss:Type="String">김치찜</Data></Cell>
+			<Cell><Data ss:Type="Number">9000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">12345</Data></Cell>
+			<Cell><Data ss:Type="Number">550</Data></Cell>
+			<Cell><Data ss:Type="String">1717554672713_KUG22.jpg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUG78</Data></Cell>
+			<Cell><Data ss:Type="String">김치찜</Data></Cell>
+			<Cell><Data ss:Type="Number">9000</Data></Cell>
+			<Cell><Data ss:Type="String">국내산</Data></Cell>
+			<Cell><Data ss:Type="String">12345</Data></Cell>
+			<Cell><Data ss:Type="Number">123</Data></Cell>
+			<Cell><Data ss:Type="String">1717554787109_KUG23.jpg</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
